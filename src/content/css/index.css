@@ -11,3 +11,7 @@
     height: 10vw;
     object-fit: cover;
 }
+
+.card a {
+    text-decoration: none;
+}
