@@ -34,6 +34,11 @@
     margin-bottom: 50px;
 }
 
+.p-justified{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 
 /*
     cool RGB effect
